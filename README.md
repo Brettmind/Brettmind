@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Brettmind
-- 👀 I’m interested in coding!
+- 👀 I’m interested in being developer!
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on coding.
 
