@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brettmind
 - 👀 I’m interested in being developer!
 - 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on coding.
+- 💞️ I’m looking to collaborate on app developing.
 
 - md grammar
 - md | grammar |
