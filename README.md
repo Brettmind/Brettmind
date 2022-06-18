@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on android app developing.
 
 - md grammar
-- md | grammar |
+- md | grammar 
 - 1 | 2 | 3 | 4 |5 | 6
 
 <!---
