@@ -5,7 +5,7 @@
 
 - md grammar
 - md | grammar 
-- 1 | 2 | 3 | 4 |5 | 6
+- 1 | 2 | 3 | 4 |5 | 4
 
 <!---
 Brettmind/Brettmind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
